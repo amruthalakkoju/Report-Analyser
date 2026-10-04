@@ -1,0 +1,6 @@
+{
+  "name": "Medical Report Analyser",
+  "description": "Professional AI agent web application for analyzing medical reports and generating structured clinical summaries in minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
